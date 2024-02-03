@@ -29,7 +29,8 @@
     border-radius: 0px;
 }
 #welcome img{
-    width: 100%;
+    width: 70%;
+    padding-left: 90px;
 }
 #project{
     padding-top: 70px;
